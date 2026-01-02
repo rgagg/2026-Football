@@ -1,4 +1,4 @@
-Prof Gallauger's SwiftUI course. 
+Prof. John Gallauger's SwiftUI course. 
 Ch.1 
 Football app challenge.
 
